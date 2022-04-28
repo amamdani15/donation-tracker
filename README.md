@@ -13,7 +13,8 @@ This api can be hosted on any domain, any endpoints are based off the base URL. 
 
 
 endpoints:
-	/get_campaign_total
+		
+		/get_campaign_total
 
 		This allows you to see the total amount collected for a specific campaign.
 
